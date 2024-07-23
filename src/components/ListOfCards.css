@@ -1,0 +1,22 @@
+.list-cards {
+    /* max-width: 1200px; */
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+    background-color: rgba(236, 243, 236, 0.98);
+    list-style: none;
+
+}
+.card{
+    width: 200px;
+    padding: 25px;
+    border-radius: 20px;
+    border: 1px solid rgba(236, 243, 236, 0.98);
+    box-shadow: 5px 5px 5px 5px gray;
+    background-color: aliceblue;
+    font-weight: bold;
+    
+}
